@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# HJ Shield local files
+quarantine/
+scan_history.txt
+
+# HJ Shield backups
+app_backup*.py
+app_old.py
+
+# Local build files
+build/
+dist/
+__pycache__/
+
