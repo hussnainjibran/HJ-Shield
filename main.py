@@ -1,0 +1,5 @@
+print("================================")
+print("        HJ SHIELD 🛡️")
+print("================================")
+print("Antivirus project started!")
+print("Status: Ready")
